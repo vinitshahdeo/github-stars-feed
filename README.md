@@ -1,6 +1,8 @@
 # github-stars-feed 
 #### Get the latest feed of [GitHub Stars](https://stars.github.com/profiles/) out there! ⭐
 
+[![NPM](https://nodei.co/npm/github-stars-feed.png?compact=true)](https://www.npmjs.com/package/github-stars-feed)
+
 > The **[GitHub Stars program](https://stars.github.com/)** thanks GitHub’s most influential developers and gives them a platform to showcase their work, reach more people, and shape the future of GitHub. [Read](https://dev.to/vinitshahdeo/milepost-from-a-github-user-to-a-github-star-2o36) my journey **from a GitHub User to a GitHub Star**.
 
 ## Installation
