@@ -127,11 +127,11 @@ Please checkout `examples/` directory to view [example](./example/demo.js).
 
 ## Acknowledgement
 
+<a href='https://stars.github.com/profiles/vinitshahdeo/'><img src='https://github.blog/wp-content/uploads/2020/09/github-stars-logo_Color.png' width='50px' height='50px' /></a>
+
 I'm happy to be a part of the GitHub Stars Hall of Fame. **From a (green) dot to a star, here’s how my journey uncoiled - [tiny.cc/GitHubStar](https://tiny.cc/GitHubStar)**. Check out my GitHub Star profile [here](https://stars.github.com/profiles/vinitshahdeo/). 🌟
 
 *PS: **Always grateful to GitHub!** 🖤*
-
-<a href='https://stars.github.com/profiles/vinitshahdeo/'><img src='https://github.blog/wp-content/uploads/2020/09/github-stars-logo_Color.png' width='50px' height='50px' /></a>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Vinit_Shahdeo?style=social)](https://twitter.com/Vinit_Shahdeo)
 
