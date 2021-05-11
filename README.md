@@ -21,7 +21,7 @@ const githubStars = require('github-stars-feed');
 ```js
 githubStars.getFeed((err, feed) => {
   if (err) {
-    console.log('Something went wrong while fetching GitHub Stars Feed, please try after sometime');
+    console.log('Something went wrong while fetching GitHub Stars Feed');
   } else {
     console.log(feed); // complete feed
   }
@@ -40,7 +40,7 @@ Additionally, `limit` and `username` can be passed to filter the feed entries.
 ```js
 githubStars.getFeed({ limit: 5 }, (err, res) => {
   if (err) {
-    console.log('Something went wrong while fetching GitHub Stars Feed, please try after sometime');
+    console.log('Something went wrong while fetching GitHub Stars Feed');
   } else {
     console.log(res);
   }
@@ -52,7 +52,7 @@ githubStars.getFeed({ limit: 5 }, (err, res) => {
 ```js
 githubStars.getFeed({ username: 'vinitshahdeo' }, (err, feed) => {
   if (err) {
-    console.log('Something went wrong while fetching GitHub Stars Feed, please try after sometime');
+    console.log('Something went wrong while fetching GitHub Stars Feed');
   } else {
     console.log(feed);
   }
