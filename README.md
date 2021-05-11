@@ -45,10 +45,9 @@ githubStars.getFeed({ limit: 5 }, (err, res) => {
 });
 ```
 
-### Get feed of any GitHub Star (by their GitHub username say vinitshahdeo)
+### Get feed of any GitHub Star (by their GitHub username say `vinitshahdeo`)
 
 ```js
-// show up feed by particular GitHub star say `vinitshahdeo`
 githubStars.getFeed({ username: 'vinitshahdeo' }, (err, feed) => {
   if (err) {
     console.log('Something went wrong while fetching GitHub Stars Feed, please try after sometime');
@@ -57,5 +56,15 @@ githubStars.getFeed({ username: 'vinitshahdeo' }, (err, feed) => {
   }
 });
 ```
+## Example
 
+Please checkout `examples/` directory to view example.
+
+## Acknowledgement
+
+I'm happy to be a part of the GitHub Stars Hall of Fame. From a (green) dot to a star, here’s how my journey uncoiled - [tiny.cc/GitHubStar](https://tiny.cc/GitHubStar)
+
+![](https://github.blog/wp-content/uploads/2020/09/github-stars-logo_Color.png)
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/Vinit_Shahdeo?style=social)](https://twitter.com/Vinit_Shahdeo)
 
