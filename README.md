@@ -32,6 +32,48 @@ githubStars.getFeed((err, feed) => {
 });
 ```
 
+#### Sample Response
+
+```js
+[
+  {
+    title: {
+      type: "html",
+      $t: "Meet Vinit Shahdeo, a resident of Jharkhand, has been recognized as a GitHub Star",
+    },
+    id: "cknat1te840382f1viftueegf",
+    link: {
+      href: "https://thenewskhazana.com/story/meet-vinit-shahdeo-a-resident-of-jharkhand-has-been-recognized-as-a-github-star-22451/",
+    },
+    updated: "2021-04-02T00:00:00.000Z",
+    summary: {
+      type: "html",
+      $t: "My journey got featured by the News Khajana.",
+    },
+    author: {
+      name: "vinitshahdeo",
+      uri: "https://stars.github.com/vinitshahdeo",
+    },
+  },
+  {
+    title: { type: "html", $t: "Mentor - Google Summer Of Code" },
+    id: "ckmm44oxu03192fxc94w0seir",
+    link: {
+      href: "https://community.postman.com/t/idea-9-asyncdiff-general-information/21694",
+    },
+    updated: "2021-03-20T00:00:00.000Z",
+    summary: {
+      type: "html",
+      $t: "Postman is one of the mentoring organization for GSoC. This year, Postman has AsyncAPI Initiative as part of their team.\n\nI will be mentoring an idea for AsyncAPI i.e. AsyncDiff. It's basically a library to compare two AsyncAPI documents and generate diff for the review process.",
+    },
+    author: {
+      name: "vinitshahdeo",
+      uri: "https://stars.github.com/vinitshahdeo",
+    },
+  },
+]
+```
+
 ## Options
 
 ```js
@@ -79,7 +121,9 @@ githubStars.getFeed({ username: 'vinitshahdeo' }, (err, feed) => {
 ```
 ## Example
 
-Please checkout `examples/` directory to view example.
+Please checkout `examples/` directory to view [example](./example/demo.js).
+
+> _Refer the sample response [here](./data/sample.js)_.
 
 ## Acknowledgement
 
