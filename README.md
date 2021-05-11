@@ -1,5 +1,5 @@
 # github-stars-feed 
-#### Get the latest feed of [GitHub Stars](https://stars.github.com/profiles/) out there!
+#### Get the latest feed of [GitHub Stars](https://stars.github.com/profiles/) out there! ⭐
 
 > The **[GitHub Stars program](https://stars.github.com/)** thanks GitHub’s most influential developers and gives them a platform to showcase their work, reach more people, and shape the future of GitHub. [Read](https://dev.to/vinitshahdeo/milepost-from-a-github-user-to-a-github-star-2o36) my journey **from a GitHub User to a GitHub Star**.
 
@@ -62,9 +62,11 @@ Please checkout `examples/` directory to view example.
 
 ## Acknowledgement
 
-I'm happy to be a part of the GitHub Stars Hall of Fame. From a (green) dot to a star, here’s how my journey uncoiled - [tiny.cc/GitHubStar](https://tiny.cc/GitHubStar)
+I'm happy to be a part of the GitHub Stars Hall of Fame. From a (green) dot to a star, here’s how my journey uncoiled - [tiny.cc/GitHubStar](https://tiny.cc/GitHubStar). Check out my GitHub Star profile [here](https://stars.github.com/profiles/vinitshahdeo/).
 
-![](https://github.blog/wp-content/uploads/2020/09/github-stars-logo_Color.png)
+*PS: Always grateful to GitHub! 🖤*
+
+<a href='https://stars.github.com/profiles/vinitshahdeo/'><img src='https://github.blog/wp-content/uploads/2020/09/github-stars-logo_Color.png' width='50px' height='50px' /></a>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Vinit_Shahdeo?style=social)](https://twitter.com/Vinit_Shahdeo)
 
