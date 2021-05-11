@@ -34,10 +34,25 @@ githubStars.getFeed((err, feed) => {
 
 ## Options
 
+```js
+var options = {
+  limit: 5,
+  username: 'vinitshahdeo',
+};
+
+githubStars.getFeed(options, (err, feed) => {
+  if (err) {
+    console.log('Something went wrong while fetching GitHub Stars Feed');
+  } else {
+    console.log(feed); // filtered feed based on options
+  }
+});
+```
+
 Additionally, `limit` and `username` can be passed to filter the feed entries.
 
-- `limit`: max entries to be returned
-- `username`: return feed entries of GitHub Star for given `username` only
+- `limit`: _max entries to be returned_
+- `username`: _return entries of GitHub Star for given `username` only_
 
 ### Show first `n` feed entries
 
