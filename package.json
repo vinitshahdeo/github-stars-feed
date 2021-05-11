@@ -1,0 +1,23 @@
+{
+  "name": "github-stars-feed",
+  "version": "1.0.0",
+  "description": "Get GitHub Stars latest feed",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vinit Shahdeo <vinitshahdeo@gmail.com>",
+  "license": "MIT",
+  "engines": {
+    "node": ">= 6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vinitshahdeo/github-stars-feed"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "request": "^2.88.2",
+    "xml2json": "^0.12.0"
+  }
+}
