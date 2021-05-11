@@ -1,7 +1,7 @@
 {
   "name": "github-stars-feed",
   "version": "1.0.0",
-  "description": "Get GitHub Stars latest feed",
+  "description": "Get the latest feed of GitHub Stars out there",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -14,6 +14,19 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/vinitshahdeo/github-stars-feed"
+  },
+  "keywords": [
+    "github stars feed",
+    "github stars",
+    "github",
+    "hall of fame",
+    "open source"
+  ],
+  "bugs": {
+    "url": "https://github.com/vinitshahdeo/github-stars-feed/issues"
+  },
+  "directories": {
+    "example": "example"
   },
   "dependencies": {
     "lodash": "^4.17.21",
