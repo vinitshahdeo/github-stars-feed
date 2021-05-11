@@ -119,6 +119,29 @@ githubStars.getFeed({ username: 'vinitshahdeo' }, (err, feed) => {
   }
 });
 ```
+
+## RSS Feed 
+
+<a href='https://en.wikipedia.org/wiki/RSS'><img src='https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Feed-icon.svg/1200px-Feed-icon.svg.png' width='30px' height='30px'></a>
+
+This npm module is basically taking the [RSS feed](https://en.wikipedia.org/wiki/RSS) for GitHub Stars contributions and converting it into a valid JSON object which can be further used to build `Node.js` / `React` applications.
+
+A sample entry looks like below:
+
+```xml
+<entry>
+  <title type="html"><![CDATA[ Mentor - Google Summer Of Code ]]></title>
+  <id>ckmm44oxu03192fxc94w0seir</id>
+  <link href="https://community.postman.com/t/idea-9-asyncdiff-general-information/21694"/>
+  <updated>2021-03-20T00:00:00.000Z</updated>
+  <summary type="html"><![CDATA[ Postman is one of the mentoring organization for GSoC. This year, Postman has AsyncAPI Initiative as part of their team. I will be mentoring an idea for AsyncAPI i.e. AsyncDiff. It's basically a library to compare two AsyncAPI documents and generate diff for the review process. ]]></summary>
+  <author>
+    <name>vinitshahdeo</name>
+    <uri>https://stars.github.com/vinitshahdeo</uri>
+  </author>
+</entry>
+```
+
 ## Example
 
 Please checkout `examples/` directory to view [example](./example/demo.js).
@@ -127,7 +150,9 @@ Please checkout `examples/` directory to view [example](./example/demo.js).
 
 ## Acknowledgement
 
-<a href='https://stars.github.com/profiles/vinitshahdeo/'><img src='https://github.blog/wp-content/uploads/2020/09/github-stars-logo_Color.png' width='50px' height='50px' /></a>
+<a href='https://stars.github.com/profiles/vinitshahdeo/'>
+  <img src='https://github.blog/wp-content/uploads/2020/09/github-stars-logo_Color.png' width='50px' height='50px'>
+</a>
 
 I'm happy to be a part of the GitHub Stars Hall of Fame. **From a (green) dot to a star, here’s how my journey uncoiled - [tiny.cc/GitHubStar](https://tiny.cc/GitHubStar)**. Check out my GitHub Star profile [here](https://stars.github.com/profiles/vinitshahdeo/). 🌟
 
