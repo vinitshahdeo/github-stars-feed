@@ -70,7 +70,7 @@ githubStars.getFeed((err, feed) => {
       name: "vinitshahdeo",
       uri: "https://stars.github.com/vinitshahdeo",
     },
-  },
+  }
 ]
 ```
 
