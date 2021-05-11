@@ -124,7 +124,7 @@ githubStars.getFeed({ username: 'vinitshahdeo' }, (err, feed) => {
 
 <a href='https://en.wikipedia.org/wiki/RSS'><img src='https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Feed-icon.svg/1200px-Feed-icon.svg.png' width='30px' height='30px'></a>
 
-This npm module is basically taking the [RSS feed](https://en.wikipedia.org/wiki/RSS) for GitHub Stars contributions and converting it into a valid JSON object which can be further used to build `Node.js` / `React` applications.
+This NPM [module](https://www.npmjs.com/package/github-stars-feed) is basically taking the [RSS feed](https://en.wikipedia.org/wiki/RSS) for GitHub Stars contributions and converting it into a valid JSON object which can be further used to build `Node.js` / `React` applications.
 
 A sample entry from GitHub Stars Contributions [feed](https://github.com/vinitshahdeo/github-stars-feed/blob/main/data/feed.xml) looks like below:
 
