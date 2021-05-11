@@ -5,7 +5,7 @@
 [![npm](https://img.shields.io/npm/v/github-stars-feed?logo=npm)](https://www.npmjs.com/package/github-stars-feed) [![GitHub license](https://img.shields.io/github/license/vinitshahdeo/github-stars-feed?logo=github)](https://github.com/vinitshahdeo/github-stars-feed/blob/main/LICENSE)
 
 
-> The **[GitHub Stars program](https://stars.github.com/)** thanks GitHub’s most influential developers and gives them a platform to showcase their work, reach more people, and shape the future of GitHub. [Read](https://dev.to/vinitshahdeo/milepost-from-a-github-user-to-a-github-star-2o36) my journey **from a GitHub User to a GitHub Star**.
+> The **[GitHub Stars program](https://stars.github.com/)** thanks GitHub’s most influential [developers](https://stars.github.com/profiles/) and gives them a platform to showcase their work, reach more people, and shape the future of GitHub. [Read](https://dev.to/vinitshahdeo/milepost-from-a-github-user-to-a-github-star-2o36) my journey **from a GitHub User to a GitHub Star**.
 
 ## Installation
 
