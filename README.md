@@ -68,7 +68,7 @@ Please checkout `examples/` directory to view example.
 
 ## Acknowledgement
 
-I'm happy to be a part of the GitHub Stars Hall of Fame. From a (green) dot to a star, here’s how my journey uncoiled - [tiny.cc/GitHubStar](https://tiny.cc/GitHubStar). Check out my GitHub Star profile [here](https://stars.github.com/profiles/vinitshahdeo/).
+I'm happy to be a part of the GitHub Stars Hall of Fame. **From a (green) dot to a star, here’s how my journey uncoiled - [tiny.cc/GitHubStar](https://tiny.cc/GitHubStar)**. Check out my GitHub Star profile [here](https://stars.github.com/profiles/vinitshahdeo/). 🌟
 
 *PS: **Always grateful to GitHub!** 🖤*
 
