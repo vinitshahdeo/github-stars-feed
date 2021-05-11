@@ -1,6 +1,6 @@
 {
   "name": "github-stars-feed",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Get the latest feed of GitHub Stars out there",
   "main": "index.js",
   "scripts": {
