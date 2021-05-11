@@ -130,11 +130,11 @@ A sample entry from GitHub Stars Contributions [feed](https://github.com/vinitsh
 
 ```xml
 <entry>
-  <title type="html"><![CDATA[ Mentor - Google Summer Of Code ]]></title>
-  <id>ckmm44oxu03192fxc94w0seir</id>
-  <link href="https://community.postman.com/t/idea-9-asyncdiff-general-information/21694"/>
-  <updated>2021-03-20T00:00:00.000Z</updated>
-  <summary type="html"><![CDATA[ Postman is one of the mentoring organization for GSoC. This year, Postman has AsyncAPI Initiative as part of their team. I will be mentoring an idea for AsyncAPI i.e. AsyncDiff. It's basically a library to compare two AsyncAPI documents and generate diff for the review process. ]]></summary>
+  <title type="html"><![CDATA[ Meet Vinit Shahdeo, a resident of Jharkhand, has been recognized as a GitHub Star ]]></title>
+  <id>cknat1te840382f1viftueegf</id>
+  <link href="https://thenewskhazana.com/story/meet-vinit-shahdeo-a-resident-of-jharkhand-has-been-recognized-as-a-github-star-22451/"/>
+  <updated>2021-04-02T00:00:00.000Z</updated>
+  <summary type="html"><![CDATA[ My journey got featured by the News Khajana. ]]></summary>
   <author>
     <name>vinitshahdeo</name>
     <uri>https://stars.github.com/vinitshahdeo</uri>
