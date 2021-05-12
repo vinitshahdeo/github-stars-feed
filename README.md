@@ -104,7 +104,7 @@ githubStars.getFeed((err, feed) => {
     author: {
       name: 'vinitshahdeo',
       uri: 'https://stars.github.com/vinitshahdeo'
-    },
+    }
   },
   {
     title: { type: 'html', value: 'Mentor - Google Summer Of Code' },
