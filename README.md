@@ -127,27 +127,13 @@ githubStars.getFeed((err, feed) => {
 
 ## Options
 
-```js
-var options = {
-  limit: 5,
-  username: 'vinitshahdeo',
-  sanitize: true
-};
+Additionally, `limit`, `sanitize` and `username` can be passed to filter the feed entries.
 
-githubStars.getFeed(options, (err, feed) => {
-  if (err) {
-    console.log('Something went wrong while fetching GitHub Stars Feed');
-  } else {
-    console.log(feed); // filtered feed based on options
-  }
-});
-```
-
-Additionally, `limit` and `username` can be passed to filter the feed entries.
-
-- `limit`: _max entries to be returned_
-- `username`: _return entries of GitHub Star for given `username` only_
-- `sanitize`: _returns sanitized feed_
+| Options  | Type      | Description                                                                |
+|:----------|:---------|:---------------------------------------------------------------------------|
+| `limit`    | Number  | _max entries to be returned_                                                |
+| `sanitize` | Boolean | _return sanitized feed <br> (only `title`, `summary`, `link`, `updated` and `author`)_  |
+| `username` | String  | _return entries of GitHub Star for given `username` only_                   |
 
 ### Show first `n` feed entries
 
