@@ -19,9 +19,11 @@
     "github stars feed",
     "github stars",
     "github",
+    "github stars api",
     "hall of fame",
     "open source"
   ],
+  "homepage": "https://vinitshahdeo.github.io/github-stars-feed/",
   "bugs": {
     "url": "https://github.com/vinitshahdeo/github-stars-feed/issues"
   },
