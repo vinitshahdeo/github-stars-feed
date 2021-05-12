@@ -28,7 +28,7 @@ const githubStars = require('github-stars-feed');
 var options = {
   limit: 2,
   sanitize: true,
-  username: "vinitshahdeo",
+  username: "vinitshahdeo"
 };
 
 githubStars.getFeed(options, (err, feed) => {
