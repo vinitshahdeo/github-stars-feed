@@ -33,6 +33,18 @@ githubStars.getFeed({ username: "vinitshahdeo" }, (err, res) => {
   }
 });
 
+// show up sanitized feed
+githubStars.getFeed({ sanitize: true }, (err, res) => {
+  if (err) {
+    console.log(
+      "Something went wrong while fetching GitHub Stars Feed, please try after sometime"
+    );
+  } else {
+    console.log(res);
+  }
+});
+
+
 // show up max 5 feed entries by any GitHub star say `vinitshahdeo`
 githubStars.getFeed({ username: "vinitshahdeo", limit: 5 }, (err, res) => {
   if (err) {
