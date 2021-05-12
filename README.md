@@ -35,7 +35,7 @@ githubStars.getFeed(options, (err, feed) => {
   if (err) {
     console.log('Something went wrong while fetching GitHub Stars Feed');
   } else {
-    console.log(feed); // complete feed
+    console.log(feed); // filtered feed
   }
 });
 
@@ -155,7 +155,7 @@ githubStars.getFeed({ username: 'vinitshahdeo' }, (err, feed) => {
   if (err) {
     console.log('Something went wrong while fetching GitHub Stars Feed');
   } else {
-    console.log(feed);
+    console.log(feed); // feed of vinitshahdeo only
   }
 });
 ```
@@ -167,7 +167,7 @@ githubStars.getFeed({ sanitize: true }, (err, feed) => {
   if (err) {
     console.log('Something went wrong while fetching GitHub Stars Feed');
   } else {
-    console.log(feed);
+    console.log(feed); // sanitized feed
   }
 });
 ```
