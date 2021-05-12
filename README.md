@@ -1,4 +1,4 @@
-<div align="center" />
+<div align="center" >
    <a href="https://stars.github.com/"><img src="https://raw.githubusercontent.com/vinitshahdeo/github-stars-feed/feature/gh-star-log/assets/GitHubStarsLogo.gif" width="150px" height="150px" /></a>
    <h1>GitHub Stars Feed</h1>
    <h3>Get the latest feed of <a href="https://stars.github.com/profiles/">GitHub Stars</a> out there! ⭐</h3>
