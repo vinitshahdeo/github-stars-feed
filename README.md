@@ -28,12 +28,12 @@ const githubStars = require('github-stars-feed');
 var options = {
   limit: 2,
   sanitize: true,
-  username: "vinitshahdeo"
+  username: 'vinitshahdeo'
 };
 
 githubStars.getFeed(options, (err, feed) => {
   if (err) {
-    console.log("Something went wrong while fetching GitHub Stars Feed");
+    console.log('Something went wrong while fetching GitHub Stars Feed');
   } else {
     console.log(feed); // complete feed
   }
@@ -89,40 +89,41 @@ githubStars.getFeed((err, feed) => {
 [
   {
     title: {
-      type: "html",
-      value: "Meet Vinit Shahdeo, a resident of Jharkhand, has been recognized as a GitHub Star"
+      type: 'html',
+      value: 'Meet Vinit Shahdeo, a resident of Jharkhand, has been recognized as a GitHub Star'
     },
-    id: "cknat1te840382f1viftueegf",
+    id: 'cknat1te840382f1viftueegf',
     link: {
-      href: "https://thenewskhazana.com/story/meet-vinit-shahdeo-a-resident-of-jharkhand-has-been-recognized-as-a-github-star-22451/"
+      href: 'https://thenewskhazana.com/story/meet-vinit-shahdeo-a-resident-of-jharkhand-has-been-recognized-as-a-github-star-22451/'
     },
-    updated: "2021-04-02T00:00:00.000Z",
+    updated: '2021-04-02T00:00:00.000Z',
     summary: {
-      type: "html",
-      value: "My journey got featured by the News Khajana."
+      type: 'html',
+      value: 'My journey got featured by the News Khajana.'
     },
     author: {
-      name: "vinitshahdeo",
-      uri: "https://stars.github.com/vinitshahdeo"
-    }
+      name: 'vinitshahdeo',
+      uri: 'https://stars.github.com/vinitshahdeo'
+    },
   },
   {
-    title: { type: "html", value: "Mentor - Google Summer Of Code" },
-    id: "ckmm44oxu03192fxc94w0seir",
+    title: { type: 'html', value: 'Mentor - Google Summer Of Code' },
+    id: 'ckmm44oxu03192fxc94w0seir',
     link: {
-      href: "https://community.postman.com/t/idea-9-asyncdiff-general-information/21694"
+      href: 'https://community.postman.com/t/idea-9-asyncdiff-general-information/21694'
     },
-    updated: "2021-03-20T00:00:00.000Z",
+    updated: '2021-03-20T00:00:00.000Z',
     summary: {
-      type: "html",
-      value: "Postman is one of the mentoring organization for GSoC. This year, Postman has AsyncAPI Initiative as part of their team.\n\nI will be mentoring an idea for AsyncAPI i.e. AsyncDiff. It's basically a library to compare two AsyncAPI documents and generate diff for the review process."
+      type: 'html',
+      value: 'Postman is one of the mentoring organization for GSoC. This year, Postman has AsyncAPI Initiative as part of their team.\n\nI will be mentoring an idea for AsyncAPI i.e. AsyncDiff. It\'s basically a library to compare two AsyncAPI documents and generate diff for the review process.'
     },
     author: {
-      name: "vinitshahdeo",
-      uri: "https://stars.github.com/vinitshahdeo"
+      name: 'vinitshahdeo',
+      uri: 'https://stars.github.com/vinitshahdeo'
     }
   }
-]
+];
+
 ```
 
 ## Options
