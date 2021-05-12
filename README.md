@@ -21,6 +21,57 @@ npm i github-stars-feed
 const githubStars = require('github-stars-feed');
 ```
 
+### Get filtered feed
+
+```js
+
+var options = {
+  limit: 2,
+  sanitize: true,
+  username: "vinitshahdeo",
+};
+
+githubStars.getFeed(options, (err, feed) => {
+  if (err) {
+    console.log("Something went wrong while fetching GitHub Stars Feed");
+  } else {
+    console.log(feed); // complete feed
+  }
+});
+
+```
+
+#### Sample Response
+
+```js
+
+[
+  {
+    title: 'Meet Vinit Shahdeo, a resident of Jharkhand, has been recognized as a GitHub Star',
+    summary: 'My journey got featured by the News Khajana.',
+    link: 'https://thenewskhazana.com/story/meet-vinit-shahdeo-a-resident-of-jharkhand-has-been-recognized-as-a-github-star-22451/',
+    updated: 'Sunday, November 3rd 2019',
+    author: {
+      name: 'vinitshahdeo',
+      uri: 'https://stars.github.com/vinitshahdeo'
+    }
+  },
+  {
+    title: 'Mentor - Google Summer Of Code',
+    summary: 'Postman is one of the mentoring organization for GSoC. This year, Postman has AsyncAPI Initiative as part of their team.\n\nI will be mentoring an idea for AsyncAPI i.e. AsyncDiff. It\'s basically a library to compare two AsyncAPI documents and generate diff for the review process.',
+    link: 'https://community.postman.com/t/idea-9-asyncdiff-general-information/21694',
+    updated: 'Sunday, November 3rd 2019',
+    author: {
+      name: 'vinitshahdeo',
+      uri: 'https://stars.github.com/vinitshahdeo'
+    }
+  }
+]
+
+```
+
+
+
 ### Get complete feed
 ```js
 githubStars.getFeed((err, feed) => {
@@ -39,37 +90,37 @@ githubStars.getFeed((err, feed) => {
   {
     title: {
       type: "html",
-      $t: "Meet Vinit Shahdeo, a resident of Jharkhand, has been recognized as a GitHub Star",
+      value: "Meet Vinit Shahdeo, a resident of Jharkhand, has been recognized as a GitHub Star"
     },
     id: "cknat1te840382f1viftueegf",
     link: {
-      href: "https://thenewskhazana.com/story/meet-vinit-shahdeo-a-resident-of-jharkhand-has-been-recognized-as-a-github-star-22451/",
+      href: "https://thenewskhazana.com/story/meet-vinit-shahdeo-a-resident-of-jharkhand-has-been-recognized-as-a-github-star-22451/"
     },
     updated: "2021-04-02T00:00:00.000Z",
     summary: {
       type: "html",
-      $t: "My journey got featured by the News Khajana.",
+      value: "My journey got featured by the News Khajana."
     },
     author: {
       name: "vinitshahdeo",
-      uri: "https://stars.github.com/vinitshahdeo",
-    },
+      uri: "https://stars.github.com/vinitshahdeo"
+    }
   },
   {
-    title: { type: "html", $t: "Mentor - Google Summer Of Code" },
+    title: { type: "html", value: "Mentor - Google Summer Of Code" },
     id: "ckmm44oxu03192fxc94w0seir",
     link: {
-      href: "https://community.postman.com/t/idea-9-asyncdiff-general-information/21694",
+      href: "https://community.postman.com/t/idea-9-asyncdiff-general-information/21694"
     },
     updated: "2021-03-20T00:00:00.000Z",
     summary: {
       type: "html",
-      $t: "Postman is one of the mentoring organization for GSoC. This year, Postman has AsyncAPI Initiative as part of their team.\n\nI will be mentoring an idea for AsyncAPI i.e. AsyncDiff. It's basically a library to compare two AsyncAPI documents and generate diff for the review process.",
+      value: "Postman is one of the mentoring organization for GSoC. This year, Postman has AsyncAPI Initiative as part of their team.\n\nI will be mentoring an idea for AsyncAPI i.e. AsyncDiff. It's basically a library to compare two AsyncAPI documents and generate diff for the review process."
     },
     author: {
       name: "vinitshahdeo",
-      uri: "https://stars.github.com/vinitshahdeo",
-    },
+      uri: "https://stars.github.com/vinitshahdeo"
+    }
   }
 ]
 ```
@@ -80,6 +131,7 @@ githubStars.getFeed((err, feed) => {
 var options = {
   limit: 5,
   username: 'vinitshahdeo',
+  sanitize: true
 };
 
 githubStars.getFeed(options, (err, feed) => {
@@ -95,6 +147,7 @@ Additionally, `limit` and `username` can be passed to filter the feed entries.
 
 - `limit`: _max entries to be returned_
 - `username`: _return entries of GitHub Star for given `username` only_
+- `sanitize`: _returns sanitized feed_
 
 ### Show first `n` feed entries
 
@@ -112,6 +165,18 @@ githubStars.getFeed({ limit: 5 }, (err, res) => {
 
 ```js
 githubStars.getFeed({ username: 'vinitshahdeo' }, (err, feed) => {
+  if (err) {
+    console.log('Something went wrong while fetching GitHub Stars Feed');
+  } else {
+    console.log(feed);
+  }
+});
+```
+
+### Get sanitized feed
+
+```js
+githubStars.getFeed({ sanitize: true }, (err, feed) => {
   if (err) {
     console.log('Something went wrong while fetching GitHub Stars Feed');
   } else {
