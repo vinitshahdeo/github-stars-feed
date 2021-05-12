@@ -1,8 +1,10 @@
-# github-stars-feed
-
-#### Get the latest feed of [GitHub Stars](https://stars.github.com/profiles/) out there! ⭐
-
-[![npm](https://img.shields.io/npm/v/github-stars-feed?logo=npm)](https://www.npmjs.com/package/github-stars-feed) [![GitHub license](https://img.shields.io/github/license/vinitshahdeo/github-stars-feed?logo=github)](https://github.com/vinitshahdeo/github-stars-feed/blob/main/LICENSE)
+<div align="center" />
+   <a href="https://stars.github.com/"><img src="https://raw.githubusercontent.com/vinitshahdeo/github-stars-feed/feature/gh-star-log/assets/GitHubStarsLogo.gif" width="150px" height="150px" /></a>
+   <h1>GitHub Stars Feed</h1>
+   <h3>Get the latest feed of <a href="https://stars.github.com/profiles/">GitHub Stars</a> out there! ⭐</h3>
+   <a href="https://www.npmjs.com/package/github-stars-feed"><img src="https://img.shields.io/npm/v/github-stars-feed?logo=npm" /></a>
+   <a href="https://github.com/vinitshahdeo/github-stars-feed/blob/main/LICENSE"><img src="https://img.shields.io/github/license/vinitshahdeo/github-stars-feed?logo=github" /></a>
+</div>
 
 
 > The **[GitHub Stars program](https://stars.github.com/)** thanks GitHub’s most influential [developers](https://stars.github.com/profiles/) and gives them a platform to showcase their work, reach more people, and shape the future of GitHub. [Read](https://dev.to/vinitshahdeo/milepost-from-a-github-user-to-a-github-star-2o36) my journey **from a GitHub User to a GitHub Star**.
