@@ -138,11 +138,11 @@ Additionally, `limit`, `sanitize` and `username` can be passed to filter the fee
 ### Show first `n` feed entries
 
 ```js
-githubStars.getFeed({ limit: 5 }, (err, res) => {
+githubStars.getFeed({ limit: 5 }, (err, feed) => {
   if (err) {
     console.log('Something went wrong while fetching GitHub Stars Feed');
   } else {
-    console.log(res);
+    console.log(feed); // first 5 feed entries
   }
 });
 ```
