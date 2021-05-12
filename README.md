@@ -3,6 +3,7 @@
    <h1>GitHub Stars Feed</h1>
    <h3>Get the latest feed of <a href="https://stars.github.com/profiles/">GitHub Stars</a> out there! ⭐</h3>
    <a href="https://www.npmjs.com/package/github-stars-feed"><img src="https://img.shields.io/npm/v/github-stars-feed?logo=npm" /></a>
+   <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.com%2Fvinitshahdeo%2Fgithub-stars-feed%2F&via=Vinit_Shahdeo&text=Keep%20an%20eye%20on%20GitHub%20Stars%20Contributions%20using%20this%20NPM%20module&hashtags=GitHubStarsAPI%2C%20GitHub%2C%20OpenSource%2C%20RSSFeed%2C%20JavaScript"><img alt="Twitter" src="https://img.shields.io/twitter/url?logo=twitter&url=https%3A%2F%2Fgithub.com%2Fvinitshahdeo%2Fgithub-stars-feed"></a>
    <a href="https://github.com/vinitshahdeo/github-stars-feed/blob/main/LICENSE"><img src="https://img.shields.io/github/license/vinitshahdeo/github-stars-feed?logo=github" /></a>
 </div>
 
