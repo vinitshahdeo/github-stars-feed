@@ -5,8 +5,13 @@
    <a href="https://www.npmjs.com/package/github-stars-feed"><img src="https://img.shields.io/npm/v/github-stars-feed?logo=npm" /></a>
    <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.com%2Fvinitshahdeo%2Fgithub-stars-feed%2F&via=Vinit_Shahdeo&text=Keep%20an%20eye%20on%20GitHub%20Stars%20Contributions%20using%20this%20NPM%20module&hashtags=GitHubStarsAPI%2CGitHub%2COpenSource%2CRSSFeed%2CJavaScript"><img alt="Twitter" src="https://img.shields.io/twitter/url?logo=twitter&url=https%3A%2F%2Fgithub.com%2Fvinitshahdeo%2Fgithub-stars-feed"></a>
    <a href="https://github.com/vinitshahdeo/github-stars-feed/blob/main/LICENSE"><img src="https://img.shields.io/github/license/vinitshahdeo/github-stars-feed?logo=github" /></a>
+   <a href="https://vinitshahdeo.hashnode.dev/github-stars-feed">
+      <img src="https://img.shields.io/badge/Explore%20more%20on%20Hashnode-2962FF?logo=hashnode&logoColor=white" />
+   </a>
+   <a href="https://github-stars.github.io/rss-feed/feed.xml">
+      <img src="https://img.shields.io/badge/RSS-FFA500?logo=rss&logoColor=white" />
+   </a>
 </div>
-
 
 > The **[GitHub Stars program](https://stars.github.com/)** thanks GitHub’s most influential [developers](https://stars.github.com/profiles/) and gives them a platform to showcase their work, reach more people, and shape the future of GitHub. [Read](https://dev.to/vinitshahdeo/milepost-from-a-github-user-to-a-github-star-2o36) my journey **from a GitHub User to a GitHub Star**.
 
@@ -175,9 +180,15 @@ githubStars.getFeed({ sanitize: true }, (err, feed) => {
 });
 ```
 
-## RSS Feed 
+## Blog
 
-<a href='https://en.wikipedia.org/wiki/RSS'><img src='https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Feed-icon.svg/1200px-Feed-icon.svg.png' width='30px' height='30px'></a>
+Do check out the article "[How to get GitHub Stars Contributions](https://vinitshahdeo.hashnode.dev/github-stars-feed)" on [Hashnode](https://hashnode.com/@vinitshahdeo)!
+
+[![Hashnode blog - Vinit Shahdeo](https://img.shields.io/badge/Check%20out%20blog%20on%20Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://vinitshahdeo.hashnode.dev/github-stars-feed)
+
+
+
+## RSS Feed 
 
 This NPM [module](https://www.npmjs.com/package/github-stars-feed) is basically taking the [RSS feed](https://en.wikipedia.org/wiki/RSS) for GitHub Stars contributions and converting it into a valid JSON object which can be further used to build `Node.js` / `React` applications.
 
