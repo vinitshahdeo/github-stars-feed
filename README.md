@@ -5,12 +5,8 @@
    <a href="https://www.npmjs.com/package/github-stars-feed"><img src="https://img.shields.io/npm/v/github-stars-feed?logo=npm" /></a>
    <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.com%2Fvinitshahdeo%2Fgithub-stars-feed%2F&via=Vinit_Shahdeo&text=Keep%20an%20eye%20on%20GitHub%20Stars%20Contributions%20using%20this%20NPM%20module&hashtags=GitHubStarsAPI%2CGitHub%2COpenSource%2CRSSFeed%2CJavaScript"><img alt="Twitter" src="https://img.shields.io/twitter/url?logo=twitter&url=https%3A%2F%2Fgithub.com%2Fvinitshahdeo%2Fgithub-stars-feed"></a>
    <a href="https://github.com/vinitshahdeo/github-stars-feed/blob/main/LICENSE"><img src="https://img.shields.io/github/license/vinitshahdeo/github-stars-feed?logo=github" /></a>
-   <a href="https://vinitshahdeo.hashnode.dev/github-stars-feed">
-      <img src="https://img.shields.io/badge/Explore%20more%20on%20Hashnode-2962FF?logo=hashnode&logoColor=white" />
-   </a>
-   <a href="https://github-stars.github.io/rss-feed/feed.xml">
-      <img src="https://img.shields.io/badge/RSS-FFA500?logo=rss&logoColor=white" />
-   </a>
+   <a href="https://vinitshahdeo.hashnode.dev/github-stars-feed"><img src="https://img.shields.io/badge/Explore%20more%20on%20Hashnode-2962FF?logo=hashnode&logoColor=white" /></a>
+   <a href="https://github-stars.github.io/rss-feed/feed.xml"><img src="https://img.shields.io/badge/RSS-FFA500?logo=rss&logoColor=white" /></a>
    <br><br>
 </div>
 
