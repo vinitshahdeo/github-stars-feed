@@ -11,6 +11,7 @@
    <a href="https://github-stars.github.io/rss-feed/feed.xml">
       <img src="https://img.shields.io/badge/RSS-FFA500?logo=rss&logoColor=white" />
    </a>
+   <br><br>
 </div>
 
 > The **[GitHub Stars program](https://stars.github.com/)** thanks GitHub’s most influential [developers](https://stars.github.com/profiles/) and gives them a platform to showcase their work, reach more people, and shape the future of GitHub. [Read](https://dev.to/vinitshahdeo/milepost-from-a-github-user-to-a-github-star-2o36) my journey **from a GitHub User to a GitHub Star**.
