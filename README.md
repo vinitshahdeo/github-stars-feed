@@ -1,7 +1,6 @@
 <div align="center" >
    <a href="https://stars.github.com/"><img src="https://raw.githubusercontent.com/vinitshahdeo/github-stars-feed/feature/gh-star-log/assets/GitHubStarsLogo.gif" width="150px" height="150px" /></a><br>
    <h1>GitHub Stars Feed</h1>
-   <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&color=0B2734&center=true&lines=What's+cooking+in+GitHub+Star's+pot%3F" />
    <h3>Get the latest feed of <a href="https://stars.github.com/profiles/">GitHub Stars</a> out there! ⭐</h3>
    <a href="https://www.npmjs.com/package/github-stars-feed"><img src="https://img.shields.io/npm/v/github-stars-feed?logo=npm" /></a>
    <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.com%2Fvinitshahdeo%2Fgithub-stars-feed%2F&via=Vinit_Shahdeo&text=Keep%20an%20eye%20on%20GitHub%20Stars%20Contributions%20using%20this%20NPM%20module&hashtags=GitHubStarsAPI%2CGitHub%2COpenSource%2CRSSFeed%2CJavaScript"><img alt="Twitter" src="https://img.shields.io/twitter/url?logo=twitter&url=https%3A%2F%2Fgithub.com%2Fvinitshahdeo%2Fgithub-stars-feed"></a>
@@ -23,6 +22,8 @@ npm i github-stars-feed
 ```
 
 ## Usage
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=0B2734&vCenter=true&lines=What's+cooking+in+GitHub+Star's+pot%3F)
 
 ```js
 const githubStars = require('github-stars-feed');
