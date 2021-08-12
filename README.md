@@ -182,9 +182,9 @@ githubStars.getFeed({ sanitize: true }, (err, feed) => {
 
 ## Blog
 
-Do check out the article "[How to get GitHub Stars Contributions](https://vinitshahdeo.hashnode.dev/github-stars-feed)" on [Hashnode](https://hashnode.com/@vinitshahdeo)!
+Do check out the article "[How to get GitHub Stars Contributions](https://vinitshahdeo.dev/github-stars-feed)" on [Hashnode](https://hashnode.com/@vinitshahdeo)!
 
-[![Hashnode blog - Vinit Shahdeo](https://img.shields.io/badge/Check%20out%20blog%20on%20Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://vinitshahdeo.hashnode.dev/github-stars-feed)
+[![Hashnode blog - Vinit Shahdeo](https://img.shields.io/badge/Check%20out%20blog%20on%20Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://vinitshahdeo.dev/github-stars-feed)
 
 
 
