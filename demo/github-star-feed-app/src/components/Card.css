@@ -1,0 +1,69 @@
+.card{
+    margin: 2vmin;
+    color: white;
+    display: flex;
+    height: fit-content;
+}
+
+.cardRight{
+    filter: drop-shadow(0px 0px 40px rgba(0, 0, 0, 0.25));
+    padding: 4vmin;
+    width: 100%;
+    height: 100%;
+    background: #FFFFFF;
+    border: 1px solid #B0B0B0;
+    box-sizing: border-box;
+    color: black;
+    border-radius: 22px;
+}
+
+.title{
+    color: slategray;
+    border-bottom: 2px white solid;
+    margin-bottom: 3vmin;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    text-align: center;
+}
+.summary{
+    margin-bottom: 2vmin;
+}
+.link{
+    cursor: pointer;
+    color: blue;
+    margin-bottom: 4vmin;
+}
+.link > span{
+    color: black;
+}
+
+.uri{
+    margin-bottom: 3vmin;
+    cursor: pointer;
+    color: blue;
+}
+.uri > span{
+    color: black;
+}
+
+.subtitles{
+    font-weight: 600;
+}
+.update{
+    margin-bottom: 3vmin;
+    color: seagreen;
+}
+
+.clickHere{
+    color: blue;
+    cursor: pointer;
+}
+
+.author{
+    font-weight: 550;
+    font-size: 30px;
+    color: darkslateblue;
+    margin-bottom: 1vmin;
+}
+
