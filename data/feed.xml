@@ -1,0 +1,760 @@
+<feed
+	xmlns="http://www.w3.org/2005/Atom">
+	<id>http://stars.github.com/</id>
+	<title>GitHub Stars Contributions</title>
+	<updated>2021-04-26T07:05:11.693Z</updated>
+	<generator>https://github.com/jpmonette/feed</generator>
+	<link rel="alternate" href="http://stars.github.com/"/>
+	<subtitle>Recent contributions from the members of the GitHub Stars Program.</subtitle>
+	<rights>All rights reserved 2021, GitHub</rights>
+	<entry>
+		<title type="html">
+			<![CDATA[ Django + vue.js primer livestream ]]>
+		</title>
+		<id>ckm3p9o1d688827rxkqzkknvv</id>
+		<link href="https://www.youtube.com/watch?v=yV8LXOpX_JM"/>
+		<updated>2022-02-01T00:00:00.000Z</updated>
+		<summary type="html">
+			<![CDATA[ ]]>
+		</summary>
+		<author>
+			<name>f213</name>
+			<uri>https://stars.github.com/f213</uri>
+		</author>
+	</entry>
+	<entry>
+		<title type="html">
+			<![CDATA[ Render ATL 2020: An Intro to Using GraphQL with Gatsby ]]>
+		</title>
+		<id>ckm3p9i97508827rxazxg8grm</id>
+		<link href="https://www.renderatl.com/"/>
+		<updated>2021-08-13T00:00:00.000Z</updated>
+		<summary type="html">
+			<![CDATA[ Render ATL 2020: An Intro to Using GraphQL with Gatsby ]]>
+		</summary>
+		<author>
+			<name>m0nica</name>
+			<uri>https://stars.github.com/m0nica</uri>
+		</author>
+	</entry>
+	<entry>
+		<title type="html">
+			<![CDATA[ OQUE É A SINDROME DE BURNOUT E COMO EVITÁ-LA ]]>
+		</title>
+		<id>cknsxuxux66482fy04gokom7m</id>
+		<link href="https://youtu.be/pPg8b1VYsNo"/>
+		<updated>2021-04-22T00:00:00.000Z</updated>
+		<summary type="html">
+			<![CDATA[ This video is about the burnout syndrome ]]>
+		</summary>
+		<author>
+			<name>julioarruda</name>
+			<uri>https://stars.github.com/julioarruda</uri>
+		</author>
+	</entry>
+	<entry>
+		<title type="html">
+			<![CDATA[ Learning React ]]>
+		</title>
+		<id>cknjxk7cq45562f2atfp5rmea</id>
+		<link href="https://dev.to/debs_obrien/learning-react-279j"/>
+		<updated>2021-04-21T00:00:00.000Z</updated>
+		<summary type="html">
+			<![CDATA[ Recently I started learning React for my new job. I basically went from being a coding ninja to being a coding newbie. But hey everything can be learnt so here is what I have learnt so far. ]]>
+		</summary>
+		<author>
+			<name>debs-obrien</name>
+			<uri>https://stars.github.com/debs-obrien</uri>
+		</author>
+	</entry>
+	<entry>
+		<title type="html">
+			<![CDATA[ GANHE 20K EM 3 MESES!!!! ]]>
+		</title>
+		<id>cknsxt7f862452fy052a181kg</id>
+		<link href="https://youtu.be/K0IyhEE9aAU"/>
+		<updated>2021-04-19T00:00:00.000Z</updated>
+		<summary type="html">
+			<![CDATA[ This video is about the people who sell trainnings with the promisse of the great salary ]]>
+		</summary>
+		<author>
+			<name>julioarruda</name>
+			<uri>https://stars.github.com/julioarruda</uri>
+		</author>
+	</entry>
+	<entry>
+		<title type="html">
+			<![CDATA[ 100DaysOfKubernetes ]]>
+		</title>
+		<id>cknr32azt26072fwdozn0rnxs</id>
+		<link href="https://github.com/100daysofkubernetes/100DaysOfKubernetes"/>
+		<updated>2021-04-19T00:00:00.000Z</updated>
+		<summary type="html">
+			<![CDATA[ 100 Days Of Kubernetes is a challenge to get started in the cloud native ecosystem and to learn about Kubernetes. The repository hosts various resources to help community members. ]]>
+		</summary>
+		<author>
+			<name>AnaisUrlichs</name>
+			<uri>https://stars.github.com/AnaisUrlichs</uri>
+		</author>
+	</entry>
+	<entry>
+		<title type="html">
+			<![CDATA[ Create or Update PR Action ]]>
+		</title>
+		<id>cknsylbqe78162fy0ab0ago7h</id>
+		<link href="https://michaelheap.com/create-or-update-pr/"/>
+		<updated>2021-04-16T00:00:00.000Z</updated>
+		<summary type="html">
+			<![CDATA[ A post featuring https://github.com/marketplace/actions/create-or-update-pull-request It explains why the action is important and how it works ]]>
+		</summary>
+		<author>
+			<name>mheap</name>
+			<uri>https://stars.github.com/mheap</uri>
+		</author>
+	</entry>
+	<entry>
+		<title type="html">
+			<![CDATA[ How To Write Ansible Playbooks - Tutorial Series ]]>
+		</title>
+		<id>cknohsnh849422frj9n2vn7gh</id>
+		<link href="https://www.digitalocean.com/community/tutorial_series/how-to-write-ansible-playbooks"/>
+		<updated>2021-04-15T00:00:00.000Z</updated>
+		<summary type="html">
+			<![CDATA[ In this practical series, readers will learn about some of Ansible’s main features that can be used to write playbooks for server automation. At the end, you’ll create a playbook to automate setting up a remote Nginx web server and deploy a static HTML website to it. ]]>
+		</summary>
+		<author>
+			<name>erikaheidi</name>
+			<uri>https://stars.github.com/erikaheidi</uri>
+		</author>
+	</entry>
+	<entry>
+		<title type="html">
+			<![CDATA[ A PLACA CHEGOU!!! ]]>
+		</title>
+		<id>cknsxrmsf58452fy0cdwzvkwd</id>
+		<link href="https://youtu.be/AJ4L3xgq7AM"/>
+		<updated>2021-04-14T00:00:00.000Z</updated>
+		<summary type="html">
+			<![CDATA[ This video is about my GitHub Stars plate ]]>
+		</summary>
+		<author>
+			<name>julioarruda</name>
+			<uri>https://stars.github.com/julioarruda</uri>
+		</author>
+	</entry>
+	<entry>
+		<title type="html">
+			<![CDATA[ Women in Tech: „Lasst euch nicht vorschreiben, für was ihr euch zu interessieren habt!“ ]]>
+		</title>
+		<id>ckniwuiwu70362f3cqvqbni4e</id>
+		<link href="https://entwickler.de/online/karriere/women-in-tech-gina-haeussge-579965651.html"/>
+		<updated>2021-04-14T00:00:00.000Z</updated>
+		<summary type="html">
+			<![CDATA[ An interview in a german developer magazine in which I talked about my experiences as a woman in tech and what challenges I had to face while growing up. ]]>
+		</summary>
+		<author>
+			<name>foosel</name>
+			<uri>https://stars.github.com/foosel</uri>
+		</author>
+	</entry>
+	<entry>
+		<title type="html">
+			<![CDATA[ GitHub Actions + PowerShell ]]>
+		</title>
+		<id>cknj29rc387582f3c2w3b8dfj</id>
+		<link href="https://www.meetup.com/github-lovers-switzerland/events/277252940/"/>
+		<updated>2021-04-14T00:00:00.000Z</updated>
+		<summary type="html">
+			<![CDATA[ In August 2020, GitHub introduced Composite Actions which allow you to create reusable workflows using shell scripts and even mix multiple shell languages in the same action. As an added benefit, the Actions Marketplace became open to developers who don't know TypeScript! This Action-packed, PowerShell-centric presentation will show you how fun and useful this new GitHub feature can be. Combined with Docker containers, the possibilities are endless. ]]>
+		</summary>
+		<author>
+			<name>potatoqualitee</name>
+			<uri>https://stars.github.com/potatoqualitee</uri>
+		</author>
+	</entry>
+	<entry>
+		<title type="html">
+			<![CDATA[ Nuxt Performances ]]>
+		</title>
+		<id>cknjys00q79082f2afn3awwz3</id>
+		<link href="https://www.youtube.com/watch?v=xtEkLGOGDBs"/>
+		<updated>2021-04-14T00:00:00.000Z</updated>
+		<summary type="html">
+			<![CDATA[ Nuxt is so performant out of the box. We do so much for you so you don’t have to. Take a look at how webpack works and what it does for you and you don’t even have to do anything to get all these features such as lazy loading and code splitting. Also check out Nuxt Image. Yes we now have Nuxt Image to make your images super performant. Nuxt rocks. ]]>
+		</summary>
+		<author>
+			<name>debs-obrien</name>
+			<uri>https://stars.github.com/debs-obrien</uri>
+		</author>
+	</entry>
+	<entry>
+		<title type="html">
+			<![CDATA[ AzureLive ]]>
+		</title>
+		<id>cknr2zy2a25792fwdova3g6zp</id>
+		<link href="https://youtu.be/jRBeSZcfcmQ?t=5890"/>
+		<updated>2021-04-13T00:00:00.000Z</updated>
+		<summary type="html">
+			<![CDATA[ I spoke at AzureLive about the value of Kubernetes and getting started in the cloud native ecosystem. Additionally, the talk provides a demo on getting started and navigating the space. ]]>
+		</summary>
+		<author>
+			<name>AnaisUrlichs</name>
+			<uri>https://stars.github.com/AnaisUrlichs</uri>
+		</author>
+	</entry>
+	<entry>
+		<title type="html">
+			<![CDATA[ FSJam Podcast, Open Source Education with Monica Powell ]]>
+		</title>
+		<id>cknfzlex9107372f1ld8yxo45b</id>
+		<link href="https://fsjam.org/episodes/episode-27-open-source-education-with-monica-powell"/>
+		<updated>2021-04-12T00:00:00.000Z</updated>
+		<summary type="html">
+			<![CDATA[ Monica Powell is a software engineer at Newsela, Egghead Instructor, and organizer of the React Ladies meetup. In this episode we discuss how to create free, high quality educational material, the Redwood IDE and structure package, and how to build a more diverse open source community. ]]>
+		</summary>
+		<author>
+			<name>m0nica</name>
+			<uri>https://stars.github.com/m0nica</uri>
+		</author>
+	</entry>
+	<entry>
+		<title type="html">
+			<![CDATA[ OQUE É PROCRASTINAÇÃO E COMO EVITAR ]]>
+		</title>
+		<id>cknf43p4u42492f1lpvtfd8sc</id>
+		<link href="https://www.youtube.com/watch?v=02kH0U1Hdb0"/>
+		<updated>2021-04-12T00:00:00.000Z</updated>
+		<summary type="html">
+			<![CDATA[ This video is about procrastination and how to evict this. ]]>
+		</summary>
+		<author>
+			<name>julioarruda</name>
+			<uri>https://stars.github.com/julioarruda</uri>
+		</author>
+	</entry>
+	<entry>
+		<title type="html">
+			<![CDATA[ "Abenteuer Open Source Entwicklung" @ Grazer Linuxtage 2021 (Keynote) ]]>
+		</title>
+		<id>cknhj8j2n115852ftyt2uoheoh</id>
+		<link href="https://pretalx.linuxtage.at/glt21/talk/Q8W7AB/"/>
+		<updated>2021-04-10T00:00:00.000Z</updated>
+		<summary type="html">
+			<![CDATA[ I once again gave my keynote about my "Adventures in Open Source Development", sharing the good, the bad and the ugly of working as an independent OSS dev on an end user facing project for as long as I have, only this time in German. ]]>
+		</summary>
+		<author>
+			<name>foosel</name>
+			<uri>https://stars.github.com/foosel</uri>
+		</author>
+	</entry>
+	<entry>
+		<title type="html">
+			<![CDATA[ Guest on DevNation Red Hat Developer ]]>
+		</title>
+		<id>cknr38usq27272fwdzn9m8gpm</id>
+		<link href="https://youtu.be/a67isvHx94k"/>
+		<updated>2021-04-08T00:00:00.000Z</updated>
+		<summary type="html">
+			<![CDATA[ Interview about my journey getting started with Kubernetes. ]]>
+		</summary>
+		<author>
+			<name>AnaisUrlichs</name>
+			<uri>https://stars.github.com/AnaisUrlichs</uri>
+		</author>
+	</entry>
+	<entry>
+		<title type="html">
+			<![CDATA[ What is npx? Learn the npm vs npx difference in Node.js ]]>
+		</title>
+		<id>cknrddhfa56182fwd7vytpkdl</id>
+		<link href="https://www.youtube.com/watch?v=v5XqHWHktRI"/>
+		<updated>2021-04-08T00:00:00.000Z</updated>
+		<summary type="html">
+			<![CDATA[ npx vs npm can be a confusing debate. I created a video to explain the difference between npm and npx, explained the history of npx, and how to work with npx. ]]>
+		</summary>
+		<author>
+			<name>ahmadawais</name>
+			<uri>https://stars.github.com/ahmadawais</uri>
+		</author>
+	</entry>
+	<entry>
+		<title type="html">
+			<![CDATA[ NÃO ENCONTRO MINHA BRANCH NO GITHUB ]]>
+		</title>
+		<id>ckn7nupwd91642f11vt77ztj7</id>
+		<link href="https://www.youtube.com/watch?v=e6doXVQxhSU"/>
+		<updated>2021-04-07T00:00:00.000Z</updated>
+		<summary type="html">
+			<![CDATA[ This video is about people who "lost" the code because master and main branch. ]]>
+		</summary>
+		<author>
+			<name>julioarruda</name>
+			<uri>https://stars.github.com/julioarruda</uri>
+		</author>
+	</entry>
+	<entry>
+		<title type="html">
+			<![CDATA[ ESTOU CANSADO DE REUNIÔES!!!!!! (FADIGA DO ZOOM) ]]>
+		</title>
+		<id>ckn4nhy7u85102f0lwfosw0jq</id>
+		<link href="https://www.youtube.com/watch?v=x40vOZ0xUyA"/>
+		<updated>2021-04-05T00:00:00.000Z</updated>
+		<summary type="html">
+			<![CDATA[ This video is about Zoom Fatique ]]>
+		</summary>
+		<author>
+			<name>julioarruda</name>
+			<uri>https://stars.github.com/julioarruda</uri>
+		</author>
+	</entry>
+	<entry>
+		<title type="html">
+			<![CDATA[ Discord as a Virtual Office ]]>
+		</title>
+		<id>cknjxnw3248212f2aq4j6nsle</id>
+		<link href="https://dev.to/debs_obrien/discord-as-a-virtual-office-a6p"/>
+		<updated>2021-04-03T00:00:00.000Z</updated>
+		<summary type="html">
+			<![CDATA[ We use Discord as our virtual office at Bit and I have to tell you all about it as it really is a great way to work and collaborate with others especially when working in different time zones. ]]>
+		</summary>
+		<author>
+			<name>debs-obrien</name>
+			<uri>https://stars.github.com/debs-obrien</uri>
+		</author>
+	</entry>
+	<entry>
+		<title type="html">
+			<![CDATA[ Meet Vinit Shahdeo, a resident of Jharkhand, has been recognized as a GitHub Star ]]>
+		</title>
+		<id>cknat1te840382f1viftueegf</id>
+		<link href="https://thenewskhazana.com/story/meet-vinit-shahdeo-a-resident-of-jharkhand-has-been-recognized-as-a-github-star-22451/"/>
+		<updated>2021-04-02T00:00:00.000Z</updated>
+		<summary type="html">
+			<![CDATA[ My journey got featured by the News Khajana. ]]>
+		</summary>
+		<author>
+			<name>vinitshahdeo</name>
+			<uri>https://stars.github.com/vinitshahdeo</uri>
+		</author>
+	</entry>
+	<entry>
+		<title type="html">
+			<![CDATA[ Ben.BlockingDetector ]]>
+		</title>
+		<id>cknjaw42g109302f3c59zfou5a</id>
+		<link href="https://github.com/benaadams/Ben.BlockingDetector"/>
+		<updated>2021-04-01T00:00:00.000Z</updated>
+		<summary type="html">
+			<![CDATA[ Blocking calls can lead to ThreadPool starvation. Outputs a warning to the log when blocking calls are made on the ThreadPool to help track down issues and make developers apps more scalable. ]]>
+		</summary>
+		<author>
+			<name>benaadams</name>
+			<uri>https://stars.github.com/benaadams</uri>
+		</author>
+	</entry>
+	<entry>
+		<title type="html">
+			<![CDATA[ AUDITE OS ACESSOS EM SEU @Microsoft Azure​ COM O AZURE STEALTH ]]>
+		</title>
+		<id>ckmxztdbq29092fw1dn119e3k</id>
+		<link href="https://www.youtube.com/watch?v=8VdCfSUPlaY"/>
+		<updated>2021-03-31T00:00:00.000Z</updated>
+		<summary type="html">
+			<![CDATA[ This video is about tool to check the permissions in an Azure subscription ]]>
+		</summary>
+		<author>
+			<name>julioarruda</name>
+			<uri>https://stars.github.com/julioarruda</uri>
+		</author>
+	</entry>
+	<entry>
+		<title type="html">
+			<![CDATA[ UTILIZE SEU VSCODE PARA CRIAR AS ACTIONS DO @GitHub​ ]]>
+		</title>
+		<id>ckmv8boop35292fww55h2qe2m</id>
+		<link href="https://www.youtube.com/watch?v=FGs8tynEwoc"/>
+		<updated>2021-03-29T00:00:00.000Z</updated>
+		<summary type="html">
+			<![CDATA[ This video is about a VSCode extension to help in the GitHub Actions creation ]]>
+		</summary>
+		<author>
+			<name>julioarruda</name>
+			<uri>https://stars.github.com/julioarruda</uri>
+		</author>
+	</entry>
+	<entry>
+		<title type="html">
+			<![CDATA[ Progressive Delivery Conf ]]>
+		</title>
+		<id>cknr36q6l26862fwd1p325n3a</id>
+		<link href="https://youtu.be/HUMNubhAhC8"/>
+		<updated>2021-03-29T00:00:00.000Z</updated>
+		<summary type="html">
+			<![CDATA[ In this talk, I showcase how to use Knative serverless capabilities on your Kubernetes cluster to optimise deployments. ]]>
+		</summary>
+		<author>
+			<name>AnaisUrlichs</name>
+			<uri>https://stars.github.com/AnaisUrlichs</uri>
+		</author>
+	</entry>
+	<entry>
+		<title type="html">
+			<![CDATA[ Homelink uplink monitoring: Keeping an eye on my ISP's performance ]]>
+		</title>
+		<id>ckniwxc1w71332f3czn8svfc0</id>
+		<link href="https://foosel.net/blog/2021-03-28-homelab-uplink-monitoring"/>
+		<updated>2021-03-28T00:00:00.000Z</updated>
+		<summary type="html">
+			<![CDATA[ I blogged about my home monitoring setup and described how I used Docker, Grafana and InfluxDB to ensure my internet uplink performes as expected. ]]>
+		</summary>
+		<author>
+			<name>foosel</name>
+			<uri>https://stars.github.com/foosel</uri>
+		</author>
+	</entry>
+	<entry>
+		<title type="html">
+			<![CDATA[ GitHub Satellite India 2021 - Collaboration on GitHub Workshop ]]>
+		</title>
+		<id>ckmx2hewd57512fvjio7bhftn</id>
+		<link href="https://githubsatellite.com/workshops/collaboration-on-gitHub/"/>
+		<updated>2021-03-27T00:00:00.000Z</updated>
+		<summary type="html">
+			<![CDATA[ GitHub is not just a git-hosting platform, but also a powerful collaboration tool being used by millions of developers all over the world. In this workshop, we’ll dive into some of the collaborative features used by open source maintainers, contributors, and developers—and also touch upon some of the best practices of setting up your development workflows on GitHub. ]]>
+		</summary>
+		<author>
+			<name>NishkarshRaj</name>
+			<uri>https://stars.github.com/NishkarshRaj</uri>
+		</author>
+	</entry>
+	<entry>
+		<title type="html">
+			<![CDATA[ MANTENHA SEU AZURE SEGURO COM SCOUT SUITE ]]>
+		</title>
+		<id>ckmqemc7k106442frke52hxtne</id>
+		<link href="https://youtu.be/wzmLH3D6VPo"/>
+		<updated>2021-03-26T00:00:00.000Z</updated>
+		<summary type="html">
+			<![CDATA[ This video is about security tool to Azure ]]>
+		</summary>
+		<author>
+			<name>julioarruda</name>
+			<uri>https://stars.github.com/julioarruda</uri>
+		</author>
+	</entry>
+	<entry>
+		<title type="html">
+			<![CDATA[ QUAIS OS BENEFÍCIOS DA COMPUTAÇÃO EM NUVEM??? ]]>
+		</title>
+		<id>ckmnhekd890272fxc7l62f7qr</id>
+		<link href="https://www.youtube.com/watch?v=zrj36aV8VQw"/>
+		<updated>2021-03-24T00:00:00.000Z</updated>
+		<summary type="html">
+			<![CDATA[ This video is about Cloud Computing Concepts ]]>
+		</summary>
+		<author>
+			<name>julioarruda</name>
+			<uri>https://stars.github.com/julioarruda</uri>
+		</author>
+	</entry>
+	<entry>
+		<title type="html">
+			<![CDATA[ Building Components in Harmony ]]>
+		</title>
+		<id>cknjyju9375992f2adqcpjy59</id>
+		<link href="https://youtu.be/gJwrRTTb2Qw?t=5187"/>
+		<updated>2021-03-24T00:00:00.000Z</updated>
+		<summary type="html">
+			<![CDATA[ When it comes to components the easy and fast way is to just build the component as we see it. A button, a hero or card component for example. We don't think about reusability because we don't have to. The aim is to deliver fast. But what if we thought about things differently. What if we saw the bigger picture as not just the application you are creating but the future long term goal. What if we thought about building components so that they are extendable, theme-able and reusable across different code bases. If we could do that then we would be able to deliver applications at a much faster pace. We would be able to scale much easier. It's not easy but that is exactly why Bit Harmony was built. So let's start building our components in Harmony. ]]>
+		</summary>
+		<author>
+			<name>debs-obrien</name>
+			<uri>https://stars.github.com/debs-obrien</uri>
+		</author>
+	</entry>
+	<entry>
+		<title type="html">
+			<![CDATA[ Managing Component Architecture ]]>
+		</title>
+		<id>cknjxep4y41712f2amev0buuv</id>
+		<link href="https://modernweb.podbean.com/e/s08e07-modern-web-podcast-managing-component-architecture-with-debbie-obrien/"/>
+		<updated>2021-03-24T00:00:00.000Z</updated>
+		<summary type="html">
+			<![CDATA[ In this episode, Tracy Lee interviews Debbie about bit.dev, a new open source tool for helping developer share components. We learn how to use Bit to manage component architecture, think in components, and how this can help you a build more scalable, reusable codebase and work across teams. ]]>
+		</summary>
+		<author>
+			<name>debs-obrien</name>
+			<uri>https://stars.github.com/debs-obrien</uri>
+		</author>
+	</entry>
+	<entry>
+		<title type="html">
+			<![CDATA[ The Unhandled Exception Podcast: Spectre Console and Cake with Patrik Svensson ]]>
+		</title>
+		<id>ckneiz1z999392f0a1hfhreav</id>
+		<link href="https://unhandledexceptionpodcast.com/posts/0014-patriksvensson/"/>
+		<updated>2021-03-24T00:00:00.000Z</updated>
+		<summary type="html">
+			<![CDATA[ I joined Dan Clarke on his podcast, where I spoke about Spectre.Console and Cake. ]]>
+		</summary>
+		<author>
+			<name>patriksvensson</name>
+			<uri>https://stars.github.com/patriksvensson</uri>
+		</author>
+	</entry>
+	<entry>
+		<title type="html">
+			<![CDATA[ TENHA UM PERFIL CAMPEÃO NO LINKEDIN ]]>
+		</title>
+		<id>ckmkn6wol63542fyzlp9dcdyh</id>
+		<link href="https://www.youtube.com/watch?v=E1_ALRuWg3A"/>
+		<updated>2021-03-22T00:00:00.000Z</updated>
+		<summary type="html">
+			<![CDATA[ This video is about tips to create a champion profile on Linkedin ]]>
+		</summary>
+		<author>
+			<name>julioarruda</name>
+			<uri>https://stars.github.com/julioarruda</uri>
+		</author>
+	</entry>
+	<entry>
+		<title type="html">
+			<![CDATA[ Contributing to Open Source in Quality Assurance ]]>
+		</title>
+		<id>ckmwne0ps28682fvjwt3r294p</id>
+		<link href="https://isabelcosta.github.io/posts/contributing-open-source-quality-assurance/"/>
+		<updated>2021-03-21T00:00:00.000Z</updated>
+		<summary type="html">
+			<![CDATA[ I wrote about multiple ways people can contribute to Open Source via Quality Assurance (QA), where to learn more about this topic, and what are the QA processes we have at AnitaB.org Open Source. ]]>
+		</summary>
+		<author>
+			<name>isabelcosta</name>
+			<uri>https://stars.github.com/isabelcosta</uri>
+		</author>
+	</entry>
+	<entry>
+		<title type="html">
+			<![CDATA[ GitHub - Zero to Hero ]]>
+		</title>
+		<id>ckmieen2j26122fyqmevl7ktm</id>
+		<link href="https://www.youtube.com/watch?v=cT9gJdBns9s"/>
+		<updated>2021-03-20T00:00:00.000Z</updated>
+		<summary type="html">
+			<![CDATA[ It was a free trainning about github, talking all about github ]]>
+		</summary>
+		<author>
+			<name>julioarruda</name>
+			<uri>https://stars.github.com/julioarruda</uri>
+		</author>
+	</entry>
+	<entry>
+		<title type="html">
+			<![CDATA[ Research Triangle PowerShell Users Group: GitHub Actions: Automating tasks for your workflows ]]>
+		</title>
+		<id>ckmxvygfd14342fw11yekjkez</id>
+		<link href="https://www.meetup.com/Research-Triangle-PowerShell-Users-Group/events/275428261/"/>
+		<updated>2021-03-20T00:00:00.000Z</updated>
+		<summary type="html">
+			<![CDATA[ Writing code to solve problems and automated tasks can be awesome! But code development doesn’t end when you finish writing your routine. There’s formatting, branches to merge, and builds to create just to name just a few. Many of those tasks are tedious and repetitive, which makes them ripe for automation; but how? ]]>
+		</summary>
+		<author>
+			<name>potatoqualitee</name>
+			<uri>https://stars.github.com/potatoqualitee</uri>
+		</author>
+	</entry>
+	<entry>
+		<title type="html">
+			<![CDATA[ Mentor - Google Summer Of Code ]]>
+		</title>
+		<id>ckmm44oxu03192fxc94w0seir</id>
+		<link href="https://community.postman.com/t/idea-9-asyncdiff-general-information/21694"/>
+		<updated>2021-03-20T00:00:00.000Z</updated>
+		<summary type="html">
+			<![CDATA[ Postman is one of the mentoring organization for GSoC. This year, Postman has AsyncAPI Initiative as part of their team. I will be mentoring an idea for AsyncAPI i.e. AsyncDiff. It's basically a library to compare two AsyncAPI documents and generate diff for the review process. ]]>
+		</summary>
+		<author>
+			<name>vinitshahdeo</name>
+			<uri>https://stars.github.com/vinitshahdeo</uri>
+		</author>
+	</entry>
+	<entry>
+		<title type="html">
+			<![CDATA[ Composing Components ]]>
+		</title>
+		<id>cknjyeigc71952f2a2w5nsox4</id>
+		<link href="https://youtu.be/1ovrSrUiXXg"/>
+		<updated>2021-03-19T00:00:00.000Z</updated>
+		<summary type="html">
+			<![CDATA[ In this video Debbie and Itay discuss how to compose components, how to break up a component into smaller components, how to find open source components and use them in your project and how in Bit you should compose components so you can better scale your applications. ]]>
+		</summary>
+		<author>
+			<name>debs-obrien</name>
+			<uri>https://stars.github.com/debs-obrien</uri>
+		</author>
+	</entry>
+	<entry>
+		<title type="html">
+			<![CDATA[ On wrong assumptions: How I once spent two weeks barking up the wrong tree ]]>
+		</title>
+		<id>ckniwyugk72332f3cojwdzavz</id>
+		<link href="https://foosel.net/blog/2021-03-19-on-wrong-assumptions"/>
+		<updated>2021-03-19T00:00:00.000Z</updated>
+		<summary type="html">
+			<![CDATA[ A post mortem of a particularly annoying bug I found in OctoPrint and my approach to analysing and finally solving it. ]]>
+		</summary>
+		<author>
+			<name>foosel</name>
+			<uri>https://stars.github.com/foosel</uri>
+		</author>
+	</entry>
+	<entry>
+		<title type="html">
+			<![CDATA[ OctoPrint provides a snappy web interface for controlling consumer 3D printers - Open Source Friday ]]>
+		</title>
+		<id>cknj0eazm82782f3cqp2smdjx</id>
+		<link href="https://www.youtube.com/watch?v=Pae3kVRi_yk"/>
+		<updated>2021-03-18T00:00:00.000Z</updated>
+		<summary type="html">
+			<![CDATA[ I joined bdougieYO on the Open Source Friday stream and we talked about OctoPrint, crowdfunding, plugin architecture, 3d printing in general and my current side projects. ]]>
+		</summary>
+		<author>
+			<name>foosel</name>
+			<uri>https://stars.github.com/foosel</uri>
+		</author>
+	</entry>
+	<entry>
+		<title type="html">
+			<![CDATA[ From Nuxt to React ]]>
+		</title>
+		<id>cknjxbyp939142f2ala52yz7i</id>
+		<link href="https://devchat.tv/views-on-vue/vue-142-from-nuxt-to-react-catching-up-with-debbie-obrien/"/>
+		<updated>2021-03-17T00:00:00.000Z</updated>
+		<summary type="html">
+			<![CDATA[ Lindsay and Steve talk with Debbie about her new position, about what Bit is, and how they are bringing a new approach to component development. We also talk about how Debbie is having to learn React and ways we learn new frameworks and libraries. ]]>
+		</summary>
+		<author>
+			<name>debs-obrien</name>
+			<uri>https://stars.github.com/debs-obrien</uri>
+		</author>
+	</entry>
+	<entry>
+		<title type="html">
+			<![CDATA[ É SEGURO DEIXAR MEU CÓDIGO NO @GitHub​ ??? ]]>
+		</title>
+		<id>ckmdh3syl72892ftfxc4isns2</id>
+		<link href="https://www.youtube.com/watch?v=DYibZK9gz7o"/>
+		<updated>2021-03-17T00:00:00.000Z</updated>
+		<summary type="html">
+			<![CDATA[ This video is an answer to one question that i received in facebook, asking if using github to put my source code is safest than store this in my local environment. ]]>
+		</summary>
+		<author>
+			<name>julioarruda</name>
+			<uri>https://stars.github.com/julioarruda</uri>
+		</author>
+	</entry>
+	<entry>
+		<title type="html">
+			<![CDATA[ CONHEÇA AS PRINCIPAIS SOFT SKILLS MAIS REQUISITADAS NAS EMPRESAS ]]>
+		</title>
+		<id>ckmb0tybk49892furzxulehqt</id>
+		<link href="https://youtu.be/trLaPdNZJwg"/>
+		<updated>2021-03-15T00:00:00.000Z</updated>
+		<summary type="html">
+			<![CDATA[ This video is about Soft Skills to Tech Communities ]]>
+		</summary>
+		<author>
+			<name>julioarruda</name>
+			<uri>https://stars.github.com/julioarruda</uri>
+		</author>
+	</entry>
+	<entry>
+		<title type="html">
+			<![CDATA[ Nx ]]>
+		</title>
+		<id>ckm9mc3v180562f3vvrt8s7wd</id>
+		<link href="https://github.com/nrwl/nx/pull/4971"/>
+		<updated>2021-03-15T00:00:00.000Z</updated>
+		<summary type="html">
+			<![CDATA[ support font inlining optimization for builds ]]>
+		</summary>
+		<author>
+			<name>santoshyadavdev</name>
+			<uri>https://stars.github.com/santoshyadavdev</uri>
+		</author>
+	</entry>
+	<entry>
+		<title type="html">
+			<![CDATA[ Hoppscotch Doc Generator CLI ]]>
+		</title>
+		<id>ckm9mas6f78302f3v01pk3vie</id>
+		<link href="https://github.com/hoppscotch/hopp-doc-gen/pull/37"/>
+		<updated>2021-03-14T00:00:00.000Z</updated>
+		<summary type="html">
+			<![CDATA[ fixed the issue to generate build commands with correct path ]]>
+		</summary>
+		<author>
+			<name>santoshyadavdev</name>
+			<uri>https://stars.github.com/santoshyadavdev</uri>
+		</author>
+	</entry>
+	<entry>
+		<title type="html">
+			<![CDATA[ Creating Protected Routes In NextJS With Supabase ]]>
+		</title>
+		<id>cknfznm5x109042f1lqggduz5b</id>
+		<link href="https://aboutmonica.com/blog/creating-protected-routes-in-next-js-with-supabase"/>
+		<updated>2021-03-13T00:00:00.000Z</updated>
+		<summary type="html">
+			<![CDATA[ This articles walks through how to create protected routes on NextJS with Supabase's user management. ]]>
+		</summary>
+		<author>
+			<name>m0nica</name>
+			<uri>https://stars.github.com/m0nica</uri>
+		</author>
+	</entry>
+	<entry>
+		<title type="html">
+			<![CDATA[ FOSS ASIA ]]>
+		</title>
+		<id>ckm3p9cdq312427rx6sh13942</id>
+		<link href="https://eventyay.com/e/fa96ae2c/session/6647"/>
+		<updated>2021-03-13T00:00:00.000Z</updated>
+		<summary type="html">
+			<![CDATA[ Topic: Technical Principles of Developer Experience Developer experience (DX) is similar to how you see and understand user experience (UX) but the difference is DX focus is strictly on developers who consume certain API services, SDKs, or other services owned by a company or an organization. ]]>
+		</summary>
+		<author>
+			<name>Developerayo</name>
+			<uri>https://stars.github.com/Developerayo</uri>
+		</author>
+	</entry>
+	<entry>
+		<title type="html">
+			<![CDATA[ My workplace setup: How I try to keep backpain and RSI at bay ]]>
+		</title>
+		<id>ckniy3cvh76722f3cv7tvmd9u</id>
+		<link href="https://foosel.net/blog/2021-03-13-my-workplace"/>
+		<updated>2021-03-13T00:00:00.000Z</updated>
+		<summary type="html">
+			<![CDATA[ I wrote about my work place setup and the various ways I combat my risk of RSI and back issues. ]]>
+		</summary>
+		<author>
+			<name>foosel</name>
+			<uri>https://stars.github.com/foosel</uri>
+		</author>
+	</entry>
+	<entry>
+		<title type="html">
+			<![CDATA[ Angular Animation ]]>
+		</title>
+		<id>ckm9k9ydc59712f3v8zpaupnj</id>
+		<link href="https://youtu.be/oBhkfNusNPI"/>
+		<updated>2021-03-12T00:00:00.000Z</updated>
+		<summary type="html">
+			<![CDATA[ In this episode, we are going to discuss Angular Animation with William Juan, we will walk through, the APIs available to create the animation and how it works. ]]>
+		</summary>
+		<author>
+			<name>santoshyadavdev</name>
+			<uri>https://stars.github.com/santoshyadavdev</uri>
+		</author>
+	</entry>
+</feed>

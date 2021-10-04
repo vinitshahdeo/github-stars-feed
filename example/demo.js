@@ -1,10 +1,10 @@
-var githubStars = require("../lib");
+var githubStars = require('../lib');
 
 // show up complete feed
 githubStars.getFeed((err, res) => {
   if (err) {
     console.log(
-      "Something went wrong while fetching GitHub Stars Feed, please try after sometime"
+      'Something went wrong while fetching GitHub Stars Feed, please try after sometime'
     );
   } else {
     console.log(res); // complete feed
@@ -15,7 +15,7 @@ githubStars.getFeed((err, res) => {
 githubStars.getFeed({ limit: 5 }, (err, res) => {
   if (err) {
     console.log(
-      "Something went wrong while fetching GitHub Stars Feed, please try after sometime"
+      'Something went wrong while fetching GitHub Stars Feed, please try after sometime'
     );
   } else {
     console.log(res);
@@ -23,10 +23,21 @@ githubStars.getFeed({ limit: 5 }, (err, res) => {
 });
 
 // show up feed by particular GitHub star say `vinitshahdeo`
-githubStars.getFeed({ username: "vinitshahdeo" }, (err, res) => {
+githubStars.getFeed({ username: 'vinitshahdeo' }, (err, res) => {
   if (err) {
     console.log(
-      "Something went wrong while fetching GitHub Stars Feed, please try after sometime"
+      'Something went wrong while fetching GitHub Stars Feed, please try after sometime'
+    );
+  } else {
+    console.log(res);
+  }
+});
+
+// show up sanitized feed
+githubStars.getFeed({ sanitize: true }, (err, res) => {
+  if (err) {
+    console.log(
+      'Something went wrong while fetching GitHub Stars Feed, please try after sometime'
     );
   } else {
     console.log(res);
@@ -34,10 +45,10 @@ githubStars.getFeed({ username: "vinitshahdeo" }, (err, res) => {
 });
 
 // show up max 5 feed entries by any GitHub star say `vinitshahdeo`
-githubStars.getFeed({ username: "vinitshahdeo", limit: 5 }, (err, res) => {
+githubStars.getFeed({ username: 'vinitshahdeo', limit: 5 }, (err, res) => {
   if (err) {
     console.log(
-      "Something went wrong while fetching GitHub Stars Feed, please try after sometime"
+      'Something went wrong while fetching GitHub Stars Feed, please try after sometime'
     );
   } else {
     console.log(res);
